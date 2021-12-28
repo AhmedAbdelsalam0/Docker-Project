@@ -1,3 +1,3 @@
 # C++ project automatecally connected to Docker Hub 
-# Team Members : 
-  1. Ahmed Abdelsalam Elgamal Section 1 / CS
+# Link to Docker Hub Image : https://hub.docker.com/r/ahmedabdelsalam1/project
+# By: Ahmed Abdelsalam Elgamal
